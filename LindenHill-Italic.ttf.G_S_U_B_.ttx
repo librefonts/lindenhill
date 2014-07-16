@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=14 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="2"/>
+            <FeatureIndex index="2" value="3"/>
+            <FeatureIndex index="3" value="4"/>
+            <FeatureIndex index="4" value="5"/>
+            <FeatureIndex index="5" value="6"/>
+            <FeatureIndex index="6" value="7"/>
+            <FeatureIndex index="7" value="8"/>
+            <FeatureIndex index="8" value="12"/>
+            <FeatureIndex index="9" value="13"/>
+            <FeatureIndex index="10" value="14"/>
+            <FeatureIndex index="11" value="15"/>
+            <FeatureIndex index="12" value="16"/>
+            <FeatureIndex index="13" value="17"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=14 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="2"/>
+            <FeatureIndex index="2" value="3"/>
+            <FeatureIndex index="3" value="4"/>
+            <FeatureIndex index="4" value="5"/>
+            <FeatureIndex index="5" value="6"/>
+            <FeatureIndex index="6" value="7"/>
+            <FeatureIndex index="7" value="8"/>
+            <FeatureIndex index="8" value="12"/>
+            <FeatureIndex index="9" value="13"/>
+            <FeatureIndex index="10" value="14"/>
+            <FeatureIndex index="11" value="15"/>
+            <FeatureIndex index="12" value="16"/>
+            <FeatureIndex index="13" value="17"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=6 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="AZE "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=15 -->
+              <FeatureIndex index="0" value="1"/>
+              <FeatureIndex index="1" value="2"/>
+              <FeatureIndex index="2" value="3"/>
+              <FeatureIndex index="3" value="4"/>
+              <FeatureIndex index="4" value="5"/>
+              <FeatureIndex index="5" value="6"/>
+              <FeatureIndex index="6" value="7"/>
+              <FeatureIndex index="7" value="8"/>
+              <FeatureIndex index="8" value="10"/>
+              <FeatureIndex index="9" value="12"/>
+              <FeatureIndex index="10" value="13"/>
+              <FeatureIndex index="11" value="14"/>
+              <FeatureIndex index="12" value="15"/>
+              <FeatureIndex index="13" value="16"/>
+              <FeatureIndex index="14" value="17"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="CAT "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=15 -->
+              <FeatureIndex index="0" value="1"/>
+              <FeatureIndex index="1" value="2"/>
+              <FeatureIndex index="2" value="3"/>
+              <FeatureIndex index="3" value="4"/>
+              <FeatureIndex index="4" value="5"/>
+              <FeatureIndex index="5" value="6"/>
+              <FeatureIndex index="6" value="7"/>
+              <FeatureIndex index="7" value="8"/>
+              <FeatureIndex index="8" value="11"/>
+              <FeatureIndex index="9" value="12"/>
+              <FeatureIndex index="10" value="13"/>
+              <FeatureIndex index="11" value="14"/>
+              <FeatureIndex index="12" value="15"/>
+              <FeatureIndex index="13" value="16"/>
+              <FeatureIndex index="14" value="17"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="2">
+            <LangSysTag value="CRT "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=15 -->
+              <FeatureIndex index="0" value="1"/>
+              <FeatureIndex index="1" value="2"/>
+              <FeatureIndex index="2" value="3"/>
+              <FeatureIndex index="3" value="4"/>
+              <FeatureIndex index="4" value="5"/>
+              <FeatureIndex index="5" value="6"/>
+              <FeatureIndex index="6" value="7"/>
+              <FeatureIndex index="7" value="8"/>
+              <FeatureIndex index="8" value="10"/>
+              <FeatureIndex index="9" value="12"/>
+              <FeatureIndex index="10" value="13"/>
+              <FeatureIndex index="11" value="14"/>
+              <FeatureIndex index="12" value="15"/>
+              <FeatureIndex index="13" value="16"/>
+              <FeatureIndex index="14" value="17"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="3">
+            <LangSysTag value="MOL "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=15 -->
+              <FeatureIndex index="0" value="1"/>
+              <FeatureIndex index="1" value="2"/>
+              <FeatureIndex index="2" value="3"/>
+              <FeatureIndex index="3" value="4"/>
+              <FeatureIndex index="4" value="5"/>
+              <FeatureIndex index="5" value="6"/>
+              <FeatureIndex index="6" value="7"/>
+              <FeatureIndex index="7" value="8"/>
+              <FeatureIndex index="8" value="9"/>
+              <FeatureIndex index="9" value="12"/>
+              <FeatureIndex index="10" value="13"/>
+              <FeatureIndex index="11" value="14"/>
+              <FeatureIndex index="12" value="15"/>
+              <FeatureIndex index="13" value="16"/>
+              <FeatureIndex index="14" value="17"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="4">
+            <LangSysTag value="ROM "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=15 -->
+              <FeatureIndex index="0" value="1"/>
+              <FeatureIndex index="1" value="2"/>
+              <FeatureIndex index="2" value="3"/>
+              <FeatureIndex index="3" value="4"/>
+              <FeatureIndex index="4" value="5"/>
+              <FeatureIndex index="5" value="6"/>
+              <FeatureIndex index="6" value="7"/>
+              <FeatureIndex index="7" value="8"/>
+              <FeatureIndex index="8" value="9"/>
+              <FeatureIndex index="9" value="12"/>
+              <FeatureIndex index="10" value="13"/>
+              <FeatureIndex index="11" value="14"/>
+              <FeatureIndex index="12" value="15"/>
+              <FeatureIndex index="13" value="16"/>
+              <FeatureIndex index="14" value="17"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="5">
+            <LangSysTag value="TRK "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=15 -->
+              <FeatureIndex index="0" value="1"/>
+              <FeatureIndex index="1" value="2"/>
+              <FeatureIndex index="2" value="3"/>
+              <FeatureIndex index="3" value="4"/>
+              <FeatureIndex index="4" value="5"/>
+              <FeatureIndex index="5" value="6"/>
+              <FeatureIndex index="6" value="7"/>
+              <FeatureIndex index="7" value="8"/>
+              <FeatureIndex index="8" value="10"/>
+              <FeatureIndex index="9" value="12"/>
+              <FeatureIndex index="10" value="13"/>
+              <FeatureIndex index="11" value="14"/>
+              <FeatureIndex index="12" value="15"/>
+              <FeatureIndex index="13" value="16"/>
+              <FeatureIndex index="14" value="17"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=18 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="5"/>
+          <LookupListIndex index="1" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="hist"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="salt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="14">
+        <FeatureTag value="ss01"/>
+        <Feature>
+          <FeatureParams>
+          </FeatureParams>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="15">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="16">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="17">
+        <FeatureTag value="swsh"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="13"/>
+          <LookupListIndex index="1" value="14"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=19 -->
+      <Lookup index="0">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="A">
+            <Alternate glyph="A.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Aacute">
+            <Alternate glyph="Aacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Abreve">
+            <Alternate glyph="Abreve.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Acircumflex">
+            <Alternate glyph="Acircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Adieresis">
+            <Alternate glyph="Adieresis.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Agrave">
+            <Alternate glyph="Agrave.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Amacron">
+            <Alternate glyph="Amacron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Aogonek">
+            <Alternate glyph="Aogonek.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Aring">
+            <Alternate glyph="Aring.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Atilde">
+            <Alternate glyph="Atilde.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="B">
+            <Alternate glyph="B.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="C">
+            <Alternate glyph="C.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Cacute">
+            <Alternate glyph="Cacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ccaron">
+            <Alternate glyph="Ccaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ccircumflex">
+            <Alternate glyph="Ccircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Cdotaccent">
+            <Alternate glyph="Cdotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="D">
+            <Alternate glyph="D.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Dcaron">
+            <Alternate glyph="Dcaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Dcroat">
+            <Alternate glyph="Dcroat.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="E">
+            <Alternate glyph="E.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Eacute">
+            <Alternate glyph="Eacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ebreve">
+            <Alternate glyph="Ebreve.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ecaron">
+            <Alternate glyph="Ecaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ecircumflex">
+            <Alternate glyph="Ecircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Edieresis">
+            <Alternate glyph="Edieresis.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Edotaccent">
+            <Alternate glyph="Edotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Egrave">
+            <Alternate glyph="Egrave.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Emacron">
+            <Alternate glyph="Emacron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Eogonek">
+            <Alternate glyph="Eogonek.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Eth">
+            <Alternate glyph="Eth.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="G">
+            <Alternate glyph="G.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gbreve">
+            <Alternate glyph="Gbreve.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gcircumflex">
+            <Alternate glyph="Gcircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gcommaaccent">
+            <Alternate glyph="Gcommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gdotaccent">
+            <Alternate glyph="Gdotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="M">
+            <Alternate glyph="M.001"/>
+            <Alternate glyph="M.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="N">
+            <Alternate glyph="N.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Nacute">
+            <Alternate glyph="Nacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ncaron">
+            <Alternate glyph="Ncaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ncommaaccent">
+            <Alternate glyph="Ncommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ntilde">
+            <Alternate glyph="Ntilde.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="P">
+            <Alternate glyph="P.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="R">
+            <Alternate glyph="R.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Racute">
+            <Alternate glyph="Racute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Rcaron">
+            <Alternate glyph="Rcaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Rcommaaccent">
+            <Alternate glyph="Rcommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="T">
+            <Alternate glyph="T.001"/>
+            <Alternate glyph="T.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="Tbar">
+            <Alternate glyph="Tbar.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Tcaron">
+            <Alternate glyph="Tcaron.001"/>
+            <Alternate glyph="Tcaron.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="bullet">
+            <Alternate glyph="bullet.001"/>
+            <Alternate glyph="bullet.002"/>
+            <Alternate glyph="bullet.003"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar">
+            <Alternate glyph="dollar.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar.hanging">
+            <Alternate glyph="dollar.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight">
+            <Alternate glyph="eight.lining"/>
+            <Alternate glyph="eight.sub"/>
+            <Alternate glyph="eight.sup"/>
+            <Alternate glyph="eight.denom"/>
+            <Alternate glyph="eight.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight.hanging">
+            <Alternate glyph="eight.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight.numer">
+            <Alternate glyph="eight.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="five">
+            <Alternate glyph="five.lining"/>
+            <Alternate glyph="five.sub"/>
+            <Alternate glyph="five.sup"/>
+            <Alternate glyph="five.denom"/>
+            <Alternate glyph="five.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="five.hanging">
+            <Alternate glyph="five.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="five.numer">
+            <Alternate glyph="five.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="four">
+            <Alternate glyph="four.lining"/>
+            <Alternate glyph="four.sub"/>
+            <Alternate glyph="four.sup"/>
+            <Alternate glyph="four.denom"/>
+            <Alternate glyph="four.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="four.hanging">
+            <Alternate glyph="four.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="four.numer">
+            <Alternate glyph="four.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="g">
+            <Alternate glyph="g.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="gbreve">
+            <Alternate glyph="gbreve.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="gcircumflex">
+            <Alternate glyph="gcircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="gcommaaccent">
+            <Alternate glyph="gcommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="gdotaccent">
+            <Alternate glyph="gdotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="k">
+            <Alternate glyph="k.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="kcommaaccent">
+            <Alternate glyph="kcommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine">
+            <Alternate glyph="nine.lining"/>
+            <Alternate glyph="nine.sub"/>
+            <Alternate glyph="nine.sup"/>
+            <Alternate glyph="nine.denom"/>
+            <Alternate glyph="nine.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine.hanging">
+            <Alternate glyph="nine.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine.numer">
+            <Alternate glyph="nine.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="one">
+            <Alternate glyph="one.lining"/>
+            <Alternate glyph="one.sub"/>
+            <Alternate glyph="one.sup"/>
+            <Alternate glyph="one.denom"/>
+            <Alternate glyph="one.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="one.hanging">
+            <Alternate glyph="one.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="one.numer">
+            <Alternate glyph="one.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="s">
+            <Alternate glyph="longs"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven">
+            <Alternate glyph="seven.lining"/>
+            <Alternate glyph="seven.sub"/>
+            <Alternate glyph="seven.sup"/>
+            <Alternate glyph="seven.denom"/>
+            <Alternate glyph="seven.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven.hanging">
+            <Alternate glyph="seven.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven.numer">
+            <Alternate glyph="seven.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="six">
+            <Alternate glyph="six.lining"/>
+            <Alternate glyph="six.sub"/>
+            <Alternate glyph="six.sup"/>
+            <Alternate glyph="six.denom"/>
+            <Alternate glyph="six.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="six.hanging">
+            <Alternate glyph="six.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="six.numer">
+            <Alternate glyph="six.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="slash">
+            <Alternate glyph="fraction"/>
+          </AlternateSet>
+          <AlternateSet glyph="three">
+            <Alternate glyph="three.lining"/>
+            <Alternate glyph="three.sub"/>
+            <Alternate glyph="three.sup"/>
+            <Alternate glyph="three.denom"/>
+            <Alternate glyph="three.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="three.hanging">
+            <Alternate glyph="three.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="three.numer">
+            <Alternate glyph="three.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="two">
+            <Alternate glyph="two.lining"/>
+            <Alternate glyph="two.sub"/>
+            <Alternate glyph="two.sup"/>
+            <Alternate glyph="two.denom"/>
+            <Alternate glyph="two.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="two.hanging">
+            <Alternate glyph="two.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="two.numer">
+            <Alternate glyph="two.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0162">
+            <Alternate glyph="uni0162.001"/>
+            <Alternate glyph="uni0162.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni021A">
+            <Alternate glyph="uni021A.001"/>
+            <Alternate glyph="uni021A.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="z">
+            <Alternate glyph="z.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="zacute">
+            <Alternate glyph="zacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="zcaron">
+            <Alternate glyph="zcaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="zdotaccent">
+            <Alternate glyph="zdotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero">
+            <Alternate glyph="zero.lining"/>
+            <Alternate glyph="zero.sub"/>
+            <Alternate glyph="zero.sup"/>
+            <Alternate glyph="zero.denom"/>
+            <Alternate glyph="zero.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero.hanging">
+            <Alternate glyph="zero.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero.numer">
+            <Alternate glyph="zero.denom"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="A">
+            <Alternate glyph="A.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Aacute">
+            <Alternate glyph="Aacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Abreve">
+            <Alternate glyph="Abreve.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Acircumflex">
+            <Alternate glyph="Acircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Adieresis">
+            <Alternate glyph="Adieresis.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Agrave">
+            <Alternate glyph="Agrave.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Amacron">
+            <Alternate glyph="Amacron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Aogonek">
+            <Alternate glyph="Aogonek.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Aring">
+            <Alternate glyph="Aring.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Atilde">
+            <Alternate glyph="Atilde.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="B">
+            <Alternate glyph="B.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="C">
+            <Alternate glyph="C.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Cacute">
+            <Alternate glyph="Cacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ccaron">
+            <Alternate glyph="Ccaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ccircumflex">
+            <Alternate glyph="Ccircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Cdotaccent">
+            <Alternate glyph="Cdotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="D">
+            <Alternate glyph="D.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Dcaron">
+            <Alternate glyph="Dcaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Dcroat">
+            <Alternate glyph="Dcroat.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="E">
+            <Alternate glyph="E.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Eacute">
+            <Alternate glyph="Eacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ebreve">
+            <Alternate glyph="Ebreve.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ecaron">
+            <Alternate glyph="Ecaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ecircumflex">
+            <Alternate glyph="Ecircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Edieresis">
+            <Alternate glyph="Edieresis.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Edotaccent">
+            <Alternate glyph="Edotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Egrave">
+            <Alternate glyph="Egrave.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Emacron">
+            <Alternate glyph="Emacron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Eogonek">
+            <Alternate glyph="Eogonek.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Eth">
+            <Alternate glyph="Eth.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="G">
+            <Alternate glyph="G.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gbreve">
+            <Alternate glyph="Gbreve.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gcircumflex">
+            <Alternate glyph="Gcircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gcommaaccent">
+            <Alternate glyph="Gcommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gdotaccent">
+            <Alternate glyph="Gdotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="L">
+            <Alternate glyph="L.CAT"/>
+          </AlternateSet>
+          <AlternateSet glyph="M">
+            <Alternate glyph="M.001"/>
+            <Alternate glyph="M.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="N">
+            <Alternate glyph="N.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Nacute">
+            <Alternate glyph="Nacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ncaron">
+            <Alternate glyph="Ncaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ncommaaccent">
+            <Alternate glyph="Ncommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Ntilde">
+            <Alternate glyph="Ntilde.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="P">
+            <Alternate glyph="P.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="R">
+            <Alternate glyph="R.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Racute">
+            <Alternate glyph="Racute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Rcaron">
+            <Alternate glyph="Rcaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Rcommaaccent">
+            <Alternate glyph="Rcommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="T">
+            <Alternate glyph="T.001"/>
+            <Alternate glyph="T.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="Tbar">
+            <Alternate glyph="Tbar.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Tcaron">
+            <Alternate glyph="Tcaron.001"/>
+            <Alternate glyph="Tcaron.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="bullet">
+            <Alternate glyph="bullet.001"/>
+            <Alternate glyph="bullet.002"/>
+            <Alternate glyph="bullet.003"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar">
+            <Alternate glyph="dollar.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="dollar.hanging">
+            <Alternate glyph="dollar.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight">
+            <Alternate glyph="eight.lining"/>
+            <Alternate glyph="eight.sub"/>
+            <Alternate glyph="eight.sup"/>
+            <Alternate glyph="eight.denom"/>
+            <Alternate glyph="eight.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight.hanging">
+            <Alternate glyph="eight.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight.numer">
+            <Alternate glyph="eight.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="five">
+            <Alternate glyph="five.lining"/>
+            <Alternate glyph="five.sub"/>
+            <Alternate glyph="five.sup"/>
+            <Alternate glyph="five.denom"/>
+            <Alternate glyph="five.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="five.hanging">
+            <Alternate glyph="five.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="five.numer">
+            <Alternate glyph="five.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="four">
+            <Alternate glyph="four.lining"/>
+            <Alternate glyph="four.sub"/>
+            <Alternate glyph="four.sup"/>
+            <Alternate glyph="four.denom"/>
+            <Alternate glyph="four.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="four.hanging">
+            <Alternate glyph="four.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="four.numer">
+            <Alternate glyph="four.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="g">
+            <Alternate glyph="g.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="gbreve">
+            <Alternate glyph="gbreve.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="gcircumflex">
+            <Alternate glyph="gcircumflex.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="gcommaaccent">
+            <Alternate glyph="gcommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="gdotaccent">
+            <Alternate glyph="gdotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="i">
+            <Alternate glyph="i.TRK"/>
+          </AlternateSet>
+          <AlternateSet glyph="j">
+            <Alternate glyph="j.TRK"/>
+          </AlternateSet>
+          <AlternateSet glyph="k">
+            <Alternate glyph="k.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="kcommaaccent">
+            <Alternate glyph="kcommaaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine">
+            <Alternate glyph="nine.lining"/>
+            <Alternate glyph="nine.sub"/>
+            <Alternate glyph="nine.sup"/>
+            <Alternate glyph="nine.denom"/>
+            <Alternate glyph="nine.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine.hanging">
+            <Alternate glyph="nine.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine.numer">
+            <Alternate glyph="nine.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="one">
+            <Alternate glyph="one.lining"/>
+            <Alternate glyph="one.sub"/>
+            <Alternate glyph="one.sup"/>
+            <Alternate glyph="one.denom"/>
+            <Alternate glyph="one.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="one.hanging">
+            <Alternate glyph="one.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="one.numer">
+            <Alternate glyph="one.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="s">
+            <Alternate glyph="longs"/>
+          </AlternateSet>
+          <AlternateSet glyph="scedilla">
+            <Alternate glyph="uni0219"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven">
+            <Alternate glyph="seven.lining"/>
+            <Alternate glyph="seven.sub"/>
+            <Alternate glyph="seven.sup"/>
+            <Alternate glyph="seven.denom"/>
+            <Alternate glyph="seven.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven.hanging">
+            <Alternate glyph="seven.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven.numer">
+            <Alternate glyph="seven.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="six">
+            <Alternate glyph="six.lining"/>
+            <Alternate glyph="six.sub"/>
+            <Alternate glyph="six.sup"/>
+            <Alternate glyph="six.denom"/>
+            <Alternate glyph="six.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="six.hanging">
+            <Alternate glyph="six.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="six.numer">
+            <Alternate glyph="six.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="slash">
+            <Alternate glyph="fraction"/>
+          </AlternateSet>
+          <AlternateSet glyph="three">
+            <Alternate glyph="three.lining"/>
+            <Alternate glyph="three.sub"/>
+            <Alternate glyph="three.sup"/>
+            <Alternate glyph="three.denom"/>
+            <Alternate glyph="three.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="three.hanging">
+            <Alternate glyph="three.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="three.numer">
+            <Alternate glyph="three.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="two">
+            <Alternate glyph="two.lining"/>
+            <Alternate glyph="two.sub"/>
+            <Alternate glyph="two.sup"/>
+            <Alternate glyph="two.denom"/>
+            <Alternate glyph="two.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="two.hanging">
+            <Alternate glyph="two.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="two.numer">
+            <Alternate glyph="two.denom"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0162">
+            <Alternate glyph="uni0162.001"/>
+            <Alternate glyph="uni0162.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0163">
+            <Alternate glyph="uni021B"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni021A">
+            <Alternate glyph="uni021A.001"/>
+            <Alternate glyph="uni021A.002"/>
+          </AlternateSet>
+          <AlternateSet glyph="z">
+            <Alternate glyph="z.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="zacute">
+            <Alternate glyph="zacute.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="zcaron">
+            <Alternate glyph="zcaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="zdotaccent">
+            <Alternate glyph="zdotaccent.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero">
+            <Alternate glyph="zero.lining"/>
+            <Alternate glyph="zero.sub"/>
+            <Alternate glyph="zero.sup"/>
+            <Alternate glyph="zero.denom"/>
+            <Alternate glyph="zero.numer"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero.hanging">
+            <Alternate glyph="zero.lining"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero.numer">
+            <Alternate glyph="zero.denom"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="L" out="L.CAT"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="scedilla" out="uni0219"/>
+          <Substitution in="uni0163" out="uni021B"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="i" out="i.TRK"/>
+          <Substitution in="j" out="j.TRK"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="eight" out="eight.numer"/>
+          <Substitution in="five" out="five.numer"/>
+          <Substitution in="four" out="four.numer"/>
+          <Substitution in="nine" out="nine.numer"/>
+          <Substitution in="one" out="one.numer"/>
+          <Substitution in="seven" out="seven.numer"/>
+          <Substitution in="six" out="six.numer"/>
+          <Substitution in="slash" out="fraction"/>
+          <Substitution in="three" out="three.numer"/>
+          <Substitution in="two" out="two.numer"/>
+          <Substitution in="zero" out="zero.numer"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eight.denom"/>
+          <Substitution in="five" out="five.denom"/>
+          <Substitution in="four" out="four.denom"/>
+          <Substitution in="nine" out="nine.denom"/>
+          <Substitution in="one" out="one.denom"/>
+          <Substitution in="seven" out="seven.denom"/>
+          <Substitution in="six" out="six.denom"/>
+          <Substitution in="three" out="three.denom"/>
+          <Substitution in="two" out="two.denom"/>
+          <Substitution in="zero" out="zero.denom"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="fraction"/>
+            <Glyph value="zero.denom"/>
+            <Glyph value="one.denom"/>
+            <Glyph value="two.denom"/>
+            <Glyph value="three.denom"/>
+            <Glyph value="four.denom"/>
+            <Glyph value="five.denom"/>
+            <Glyph value="six.denom"/>
+            <Glyph value="seven.denom"/>
+            <Glyph value="eight.denom"/>
+            <Glyph value="nine.denom"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="zero.numer"/>
+            <Glyph value="one.numer"/>
+            <Glyph value="two.numer"/>
+            <Glyph value="three.numer"/>
+            <Glyph value="four.numer"/>
+            <Glyph value="five.numer"/>
+            <Glyph value="six.numer"/>
+            <Glyph value="seven.numer"/>
+            <Glyph value="eight.numer"/>
+            <Glyph value="nine.numer"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="8"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight.numer" out="eight.denom"/>
+          <Substitution in="five.numer" out="five.denom"/>
+          <Substitution in="four.numer" out="four.denom"/>
+          <Substitution in="nine.numer" out="nine.denom"/>
+          <Substitution in="one.numer" out="one.denom"/>
+          <Substitution in="seven.numer" out="seven.denom"/>
+          <Substitution in="six.numer" out="six.denom"/>
+          <Substitution in="three.numer" out="three.denom"/>
+          <Substitution in="two.numer" out="two.denom"/>
+          <Substitution in="zero.numer" out="zero.denom"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eight.sup"/>
+          <Substitution in="five" out="five.sup"/>
+          <Substitution in="four" out="four.sup"/>
+          <Substitution in="nine" out="nine.sup"/>
+          <Substitution in="one" out="one.sup"/>
+          <Substitution in="seven" out="seven.sup"/>
+          <Substitution in="six" out="six.sup"/>
+          <Substitution in="three" out="three.sup"/>
+          <Substitution in="two" out="two.sup"/>
+          <Substitution in="zero" out="zero.sup"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eight.sub"/>
+          <Substitution in="five" out="five.sub"/>
+          <Substitution in="four" out="four.sub"/>
+          <Substitution in="nine" out="nine.sub"/>
+          <Substitution in="one" out="one.sub"/>
+          <Substitution in="seven" out="seven.sub"/>
+          <Substitution in="six" out="six.sub"/>
+          <Substitution in="three" out="three.sub"/>
+          <Substitution in="two" out="two.sub"/>
+          <Substitution in="zero" out="zero.sub"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="dollar" out="dollar.lining"/>
+          <Substitution in="dollar.hanging" out="dollar.lining"/>
+          <Substitution in="eight" out="eight.lining"/>
+          <Substitution in="eight.hanging" out="eight.lining"/>
+          <Substitution in="five" out="five.lining"/>
+          <Substitution in="five.hanging" out="five.lining"/>
+          <Substitution in="four" out="four.lining"/>
+          <Substitution in="four.hanging" out="four.lining"/>
+          <Substitution in="nine" out="nine.lining"/>
+          <Substitution in="nine.hanging" out="nine.lining"/>
+          <Substitution in="one" out="one.lining"/>
+          <Substitution in="one.hanging" out="one.lining"/>
+          <Substitution in="seven" out="seven.lining"/>
+          <Substitution in="seven.hanging" out="seven.lining"/>
+          <Substitution in="six" out="six.lining"/>
+          <Substitution in="six.hanging" out="six.lining"/>
+          <Substitution in="three" out="three.lining"/>
+          <Substitution in="three.hanging" out="three.lining"/>
+          <Substitution in="two" out="two.lining"/>
+          <Substitution in="two.hanging" out="two.lining"/>
+          <Substitution in="zero" out="zero.lining"/>
+          <Substitution in="zero.hanging" out="zero.lining"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="s" out="longs"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="A.001"/>
+          <Substitution in="Aacute" out="Aacute.001"/>
+          <Substitution in="Abreve" out="Abreve.001"/>
+          <Substitution in="Acircumflex" out="Acircumflex.001"/>
+          <Substitution in="Adieresis" out="Adieresis.001"/>
+          <Substitution in="Agrave" out="Agrave.001"/>
+          <Substitution in="Amacron" out="Amacron.001"/>
+          <Substitution in="Aogonek" out="Aogonek.001"/>
+          <Substitution in="Aring" out="Aring.001"/>
+          <Substitution in="Atilde" out="Atilde.001"/>
+          <Substitution in="B" out="B.001"/>
+          <Substitution in="C" out="C.001"/>
+          <Substitution in="Cacute" out="Cacute.001"/>
+          <Substitution in="Ccaron" out="Ccaron.001"/>
+          <Substitution in="Ccircumflex" out="Ccircumflex.001"/>
+          <Substitution in="Cdotaccent" out="Cdotaccent.001"/>
+          <Substitution in="D" out="D.001"/>
+          <Substitution in="Dcaron" out="Dcaron.001"/>
+          <Substitution in="Dcroat" out="Dcroat.001"/>
+          <Substitution in="E" out="E.001"/>
+          <Substitution in="Eacute" out="Eacute.001"/>
+          <Substitution in="Ebreve" out="Ebreve.001"/>
+          <Substitution in="Ecaron" out="Ecaron.001"/>
+          <Substitution in="Ecircumflex" out="Ecircumflex.001"/>
+          <Substitution in="Edieresis" out="Edieresis.001"/>
+          <Substitution in="Edotaccent" out="Edotaccent.001"/>
+          <Substitution in="Egrave" out="Egrave.001"/>
+          <Substitution in="Emacron" out="Emacron.001"/>
+          <Substitution in="Eogonek" out="Eogonek.001"/>
+          <Substitution in="Eth" out="Eth.001"/>
+          <Substitution in="G" out="G.001"/>
+          <Substitution in="Gbreve" out="Gbreve.001"/>
+          <Substitution in="Gcircumflex" out="Gcircumflex.001"/>
+          <Substitution in="Gcommaaccent" out="Gcommaaccent.001"/>
+          <Substitution in="Gdotaccent" out="Gdotaccent.001"/>
+          <Substitution in="N" out="N.001"/>
+          <Substitution in="Nacute" out="Nacute.001"/>
+          <Substitution in="Ncaron" out="Ncaron.001"/>
+          <Substitution in="Ncommaaccent" out="Ncommaaccent.001"/>
+          <Substitution in="Ntilde" out="Ntilde.001"/>
+          <Substitution in="P" out="P.001"/>
+          <Substitution in="R" out="R.001"/>
+          <Substitution in="Racute" out="Racute.001"/>
+          <Substitution in="Rcaron" out="Rcaron.001"/>
+          <Substitution in="Rcommaaccent" out="Rcommaaccent.001"/>
+          <Substitution in="Tbar" out="Tbar.001"/>
+          <Substitution in="g" out="g.001"/>
+          <Substitution in="gbreve" out="gbreve.001"/>
+          <Substitution in="gcircumflex" out="gcircumflex.001"/>
+          <Substitution in="gcommaaccent" out="gcommaaccent.001"/>
+          <Substitution in="gdotaccent" out="gdotaccent.001"/>
+          <Substitution in="k" out="k.001"/>
+          <Substitution in="kcommaaccent" out="kcommaaccent.001"/>
+          <Substitution in="z" out="z.001"/>
+          <Substitution in="zacute" out="zacute.001"/>
+          <Substitution in="zcaron" out="zcaron.001"/>
+          <Substitution in="zdotaccent" out="zdotaccent.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="M">
+            <Alternate glyph="M.002"/>
+            <Alternate glyph="M.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="T">
+            <Alternate glyph="T.002"/>
+            <Alternate glyph="T.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="Tcaron">
+            <Alternate glyph="Tcaron.002"/>
+            <Alternate glyph="Tcaron.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0162">
+            <Alternate glyph="uni0162.002"/>
+            <Alternate glyph="uni0162.001"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni021A">
+            <Alternate glyph="uni021A.002"/>
+            <Alternate glyph="uni021A.001"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="M" out="M.001"/>
+          <Substitution in="N" out="N.001"/>
+          <Substitution in="Nacute" out="Nacute.001"/>
+          <Substitution in="Ncaron" out="Ncaron.001"/>
+          <Substitution in="Ncommaaccent" out="Ncommaaccent.001"/>
+          <Substitution in="Ntilde" out="Ntilde.001"/>
+          <Substitution in="T" out="T.001"/>
+          <Substitution in="Tbar" out="Tbar.001"/>
+          <Substitution in="Tcaron" out="Tcaron.001"/>
+          <Substitution in="uni0162" out="uni0162.001"/>
+          <Substitution in="uni021A" out="uni021A.001"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="16">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="bullet">
+            <Alternate glyph="bullet.001"/>
+            <Alternate glyph="bullet.002"/>
+            <Alternate glyph="bullet.003"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="17">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="L.CAT">
+            <Ligature components="periodcentered" glyph="Ldot"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="f,k.001" glyph="f_f_k.001"/>
+            <Ligature components="f,hcircumflex" glyph="f_f_hcircumflex"/>
+            <Ligature components="f,thorn" glyph="f_f_thorn"/>
+            <Ligature components="f,k" glyph="f_f_k"/>
+            <Ligature components="f,h" glyph="f_f_h"/>
+            <Ligature components="f,b" glyph="f_f_b"/>
+            <Ligature components="f,j" glyph="f_f_j"/>
+            <Ligature components="f,l" glyph="f_f_l"/>
+            <Ligature components="f,i" glyph="f_f_i"/>
+            <Ligature components="h" glyph="f_h"/>
+            <Ligature components="thorn" glyph="f_thorn"/>
+            <Ligature components="b" glyph="f_b"/>
+            <Ligature components="hcircumflex" glyph="f_hcircumflex"/>
+            <Ligature components="j" glyph="f_j"/>
+            <Ligature components="k" glyph="f_k"/>
+            <Ligature components="k.001" glyph="f_k.001"/>
+            <Ligature components="f" glyph="f_f"/>
+            <Ligature components="l" glyph="f_l"/>
+            <Ligature components="i" glyph="f_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="longs">
+            <Ligature components="longs,k.001" glyph="longs_longs_k.001"/>
+            <Ligature components="longs,thorn" glyph="longs_longs_thorn"/>
+            <Ligature components="longs,k" glyph="longs_longs_k"/>
+            <Ligature components="longs,h" glyph="longs_longs_h"/>
+            <Ligature components="longs,b" glyph="longs_longs_b"/>
+            <Ligature components="longs,j" glyph="longs_longs_j"/>
+            <Ligature components="longs,l" glyph="longs_longs_l"/>
+            <Ligature components="longs,i" glyph="longs_longs_i"/>
+            <Ligature components="k.001" glyph="longs_k.001"/>
+            <Ligature components="b" glyph="longs_b"/>
+            <Ligature components="k" glyph="longs_k"/>
+            <Ligature components="j" glyph="longs_j"/>
+            <Ligature components="thorn" glyph="longs_thorn"/>
+            <Ligature components="h" glyph="longs_h"/>
+            <Ligature components="longs" glyph="longs_longs"/>
+            <Ligature components="l" glyph="longs_l"/>
+            <Ligature components="i" glyph="longs_i"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="18">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="c">
+            <Ligature components="t" glyph="c_t"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
